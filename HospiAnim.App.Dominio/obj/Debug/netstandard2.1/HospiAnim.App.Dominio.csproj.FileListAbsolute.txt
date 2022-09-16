@@ -1,0 +1,9 @@
+C:\HospiAnim\HospiAnim.App\HospiAnim.App.Dominio\obj\Debug\netstandard2.1\HospiAnim.App.Dominio.csprojAssemblyReference.cache
+C:\HospiAnim\HospiAnim.App\HospiAnim.App.Dominio\obj\Debug\netstandard2.1\HospiAnim.App.Dominio.AssemblyInfoInputs.cache
+C:\HospiAnim\HospiAnim.App\HospiAnim.App.Dominio\obj\Debug\netstandard2.1\HospiAnim.App.Dominio.AssemblyInfo.cs
+C:\HospiAnim\HospiAnim.App\HospiAnim.App.Dominio\obj\Debug\netstandard2.1\HospiAnim.App.Dominio.csproj.CoreCompileInputs.cache
+C:\HospiAnim\HospiAnim.App\HospiAnim.App.Dominio\bin\Debug\netstandard2.1\HospiAnim.App.Dominio.deps.json
+C:\HospiAnim\HospiAnim.App\HospiAnim.App.Dominio\bin\Debug\netstandard2.1\HospiAnim.App.Dominio.dll
+C:\HospiAnim\HospiAnim.App\HospiAnim.App.Dominio\bin\Debug\netstandard2.1\HospiAnim.App.Dominio.pdb
+C:\HospiAnim\HospiAnim.App\HospiAnim.App.Dominio\obj\Debug\netstandard2.1\HospiAnim.App.Dominio.dll
+C:\HospiAnim\HospiAnim.App\HospiAnim.App.Dominio\obj\Debug\netstandard2.1\HospiAnim.App.Dominio.pdb

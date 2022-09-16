@@ -1,0 +1,12 @@
+C:\HospiAnim\HospiAnim.App\HospiAnim.App.Persistencia\bin\Debug\netstandard2.1\HospiAnim.App.Persistencia.deps.json
+C:\HospiAnim\HospiAnim.App\HospiAnim.App.Persistencia\bin\Debug\netstandard2.1\HospiAnim.App.Persistencia.dll
+C:\HospiAnim\HospiAnim.App\HospiAnim.App.Persistencia\bin\Debug\netstandard2.1\HospiAnim.App.Persistencia.pdb
+C:\HospiAnim\HospiAnim.App\HospiAnim.App.Persistencia\obj\Debug\netstandard2.1\HospiAnim.App.Persistencia.csprojAssemblyReference.cache
+C:\HospiAnim\HospiAnim.App\HospiAnim.App.Persistencia\obj\Debug\netstandard2.1\HospiAnim.App.Persistencia.AssemblyInfoInputs.cache
+C:\HospiAnim\HospiAnim.App\HospiAnim.App.Persistencia\obj\Debug\netstandard2.1\HospiAnim.App.Persistencia.AssemblyInfo.cs
+C:\HospiAnim\HospiAnim.App\HospiAnim.App.Persistencia\obj\Debug\netstandard2.1\HospiAnim.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\HospiAnim\HospiAnim.App\HospiAnim.App.Persistencia\obj\Debug\netstandard2.1\HospiAnim.App.Persistencia.dll
+C:\HospiAnim\HospiAnim.App\HospiAnim.App.Persistencia\obj\Debug\netstandard2.1\HospiAnim.App.Persistencia.pdb
+C:\HospiAnim\HospiAnim.App\HospiAnim.App.Persistencia\bin\Debug\netstandard2.1\HospiAnim.App.Dominio.dll
+C:\HospiAnim\HospiAnim.App\HospiAnim.App.Persistencia\bin\Debug\netstandard2.1\HospiAnim.App.Dominio.pdb
+C:\HospiAnim\HospiAnim.App\HospiAnim.App.Persistencia\obj\Debug\netstandard2.1\HospiAnim.App.Persistencia.csproj.CopyComplete

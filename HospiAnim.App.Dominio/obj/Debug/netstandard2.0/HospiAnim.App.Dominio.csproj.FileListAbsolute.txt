@@ -1,0 +1,4 @@
+C:\HospiAnim\HospiAnim.App\HospiAnim.App.Dominio\obj\Debug\netstandard2.0\HospiAnim.App.Dominio.csprojAssemblyReference.cache
+C:\HospiAnim\HospiAnim.App\HospiAnim.App.Dominio\obj\Debug\netstandard2.0\HospiAnim.App.Dominio.AssemblyInfoInputs.cache
+C:\HospiAnim\HospiAnim.App\HospiAnim.App.Dominio\obj\Debug\netstandard2.0\HospiAnim.App.Dominio.AssemblyInfo.cs
+C:\HospiAnim\HospiAnim.App\HospiAnim.App.Dominio\obj\Debug\netstandard2.0\HospiAnim.App.Dominio.csproj.CoreCompileInputs.cache
